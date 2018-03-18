@@ -9,7 +9,7 @@
 
 ## 个人信息
 
-![blogInfo](img/info/blogInfo.png)
+![blogInfo](img/info/blogInfoV2.png)
 
 ## 壕赏
 
